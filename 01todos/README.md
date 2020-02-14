@@ -92,7 +92,7 @@ npm install todomvc-app-css
 
 看到如下页面说明成功。
 
-![todomvc-angular](E:/wangke/teacher/courseware/22.angular/readme/assets/1563418624733.png)
+![todomvc-angular](assets/1563418624733.png)
 
 
 
@@ -221,7 +221,7 @@ export class AppComponent {
 
 ### 5.4 切换所有任务项
 
-![1581061830879](E:/wangke/teacher/courseware/22.angular/readme/assets/1581061830879.png)
+![1581061830879](assets/1581061830879.png)
 
 思路：切换input控件的checked属性值由任务列表中的任务状态决定，当任务列表中的所有任务都完成，input空间的checked状态为选中状态；反之为没有选中状态
 
@@ -258,7 +258,7 @@ export class AppComponent {
 
 ### 5.5 删除任务
 
-![1581062150742](E:/wangke/teacher/courseware/22.angular/readme/assets/1581062150742.png)
+![1581062150742](assets/1581062150742.png)
 
 ```javascript
  #1.app.component.html
@@ -284,7 +284,7 @@ removeTodo (index: number): void {
 
 #### 5.6.1 双击label启用编辑样式
 
-![1581062662377](E:/wangke/teacher/courseware/22.angular/readme/assets/1581062662377.png)
+![1581062662377](assets/1581062662377.png)
 
 ```javascript
   #1.app.component.html
